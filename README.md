@@ -1,7 +1,10 @@
 Backend Tech Challenge
 
 Usage of Command Prompt or URL
-*USE RAW FILE*
+
+---*USE RAW FILE*---
+Some commands are missing if not using RAW FILE
+
 1. Listing Service
     - Get All Listing (URL) = http://localhost:8081/listings
     - Get Specific User Listing (CMD) = curl -X GET "http://localhost:8081/listings?pageNum=1&pageSize=10&userId=1"
