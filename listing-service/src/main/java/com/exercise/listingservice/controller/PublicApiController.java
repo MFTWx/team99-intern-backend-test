@@ -3,8 +3,6 @@ package com.exercise.listingservice.controller;
 import com.exercise.listingservice.dto.ListingDTO.CreateListingRequestDto;
 import com.exercise.listingservice.dto.ListingDTO.CreateListingResponseDto;
 import com.exercise.listingservice.dto.ListingDTO.GetListingsRequestDto;
-//import com.exercise.listingservice.dto.ListingDTO.GetListingsRequestDto;
-//import com.exercise.listingservice.dto.ListingDTO.GetListingsResponseDto;
 import com.exercise.listingservice.dto.PublicApiDTO.PublicApiGetListingsRequestDto;
 import com.exercise.listingservice.dto.UserDTO.CreateUserRequestDto;
 import com.exercise.listingservice.dto.UserDTO.CreateUserResponseDto;
